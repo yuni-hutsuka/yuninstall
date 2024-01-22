@@ -1,0 +1,4 @@
+go@latest
+node@latest
+deno@latest
+python@latest

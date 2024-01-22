@@ -1,0 +1,2 @@
+https://github.com/yuni-hutsuka/yunifiles ~/.yunifiles
+https://github.com/syl20bnr/spacemacs ~/.emacs.d

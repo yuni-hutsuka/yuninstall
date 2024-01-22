@@ -1,0 +1,17 @@
+zsh
+git
+neovim
+emacs
+curl
+wget
+file
+zip
+unzip
+poppler
+webkit2gtk-4.1
+base-devel
+openssl
+appmenu-gtk-module
+libappindicator-gtk3
+librsvg
+libvips
